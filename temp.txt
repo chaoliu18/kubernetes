@@ -1,4 +1,4 @@
 #代理gcr.io上的镜像
 
-FROM gcr.io/clic-215616/compression:gpu
+FROM  gcr.io/clic-215616/tensorflow-extra:1.15.0-gpu-py3
 
